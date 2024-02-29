@@ -85,19 +85,19 @@ export const Layout = (props) => {
                 sx={{ color: '#15B79E' }}
                 target="_blank"
               >
-                Devias Kit
+                Prime Access Capital
               </Box>
             </Typography>
-            <Typography
+            {/* <Typography
               align="center"
               sx={{ mb: 3 }}
               variant="subtitle1"
             >
               A professional kit that comes with ready-to-use MUI components.
-            </Typography>
+            </Typography> */}
             <img
               alt=""
-              src="/assets/auth-illustration.svg"
+              src="https://source.unsplash.com/random/?bank,investment"
             />
           </Box>
         </Grid>
